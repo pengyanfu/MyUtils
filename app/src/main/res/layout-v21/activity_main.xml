@@ -109,8 +109,7 @@
         android:textColor="@android:color/holo_orange_dark"
         android:textStyle="bold"
         app:layout_constraintLeft_toLeftOf="@+id/guideline4"
-        tools:layout_editor_absoluteY="355dp"
-        tools:targetApi="lollipop" />
+        tools:layout_editor_absoluteY="355dp" />
 
     <android.support.constraint.Guideline
         android:layout_width="wrap_content"
