@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MyUtils</string>
+    <string name="file_name">要下载的文件名</string>
+    <string name="download">立即下载</string>
 </resources>
